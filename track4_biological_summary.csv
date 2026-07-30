@@ -1,0 +1,31 @@
+Representation,Method,Chi-square p,Cluster,Cluster Size (ACRs),Shannon Diversity Index,Top Function 1,Top 1 (%),Top Function 2,Top 2 (%),Top Function 3,Top 3 (%)
+kmer_3,KMeans,<0.001,0,7116,1.486,Multifunctional DOF Regulation,58.88,Chromatin & Development,31.97,Vascular Development,4.97
+kmer_3,KMeans,<0.001,1,7524,1.499,Multifunctional DOF Regulation,61.08,Chromatin & Development,29.33,Vascular Development,4.47
+kmer_3,KMeans,<0.001,2,2714,1.553,Chromatin & Development,62.52,Multifunctional DOF Regulation,27.36,Inflorescence Development,3.92
+kmer_3,KMeans,<0.001,3,7574,1.569,Chromatin & Development,46.57,Multifunctional DOF Regulation,44.37,Vascular Development,3.61
+kmer_3,KMeans,<0.001,4,6367,1.588,Chromatin & Development,46.06,Multifunctional DOF Regulation,44.66,Vascular Development,3.53
+kmer_3,Hierarchical,<0.001,0,4145,1.563,Chromatin & Development,59.08,Multifunctional DOF Regulation,31.38,Inflorescence Development,3.55
+kmer_3,Hierarchical,<0.001,1,9116,1.487,Multifunctional DOF Regulation,58.07,Chromatin & Development,33.11,Vascular Development,4.58
+kmer_3,Hierarchical,<0.001,2,8710,1.599,Chromatin & Development,47.55,Multifunctional DOF Regulation,43.04,Vascular Development,3.36
+kmer_3,Hierarchical,<0.001,3,5706,1.499,Multifunctional DOF Regulation,54.66,Chromatin & Development,36.68,Vascular Development,4.33
+kmer_3,Hierarchical,<0.001,4,3618,1.541,Multifunctional DOF Regulation,60.87,Chromatin & Development,28.19,Vascular Development,4.71
+kmer_5,KMeans,<0.001,0,9860,1.57,Chromatin & Development,47.98,Multifunctional DOF Regulation,42.87,Vascular Development,3.62
+kmer_5,KMeans,<0.001,1,7156,1.467,Multifunctional DOF Regulation,58.97,Chromatin & Development,32.61,Vascular Development,4.13
+kmer_5,KMeans,<0.001,2,8701,1.485,Multifunctional DOF Regulation,59.96,Chromatin & Development,30.59,Vascular Development,5.18
+kmer_5,KMeans,<0.001,3,5087,1.924,Chromatin & Development,54.78,Multifunctional DOF Regulation,29.08,Cell Cycle & DNA Replication,3.61
+kmer_5,KMeans,<0.001,4,491,1.443,Chromatin & Development,61.11,Multifunctional DOF Regulation,31.05,Inflorescence Development,2.61
+kmer_5,Hierarchical,<0.001,0,12161,1.457,Multifunctional DOF Regulation,60.9,Chromatin & Development,29.98,Vascular Development,5.02
+kmer_5,Hierarchical,<0.001,1,5351,1.81,Chromatin & Development,49.52,Multifunctional DOF Regulation,37.7,Inflorescence Development,3.09
+kmer_5,Hierarchical,<0.001,2,9211,1.633,Chromatin & Development,48.21,Multifunctional DOF Regulation,41.73,Vascular Development,3.27
+kmer_5,Hierarchical,<0.001,3,419,1.357,Chromatin & Development,63.97,Multifunctional DOF Regulation,29.04,Inflorescence Development,2.94
+kmer_5,Hierarchical,<0.001,4,4153,1.412,Multifunctional DOF Regulation,58.39,Chromatin & Development,34.02,Vascular Development,4.19
+kmer_7,KMeans,<0.001,0,11135,1.855,Multifunctional DOF Regulation,50.22,Chromatin & Development,34.74,Vascular Development,4.75
+kmer_7,KMeans,<0.001,1,1257,1.307,Chromatin & Development,65.01,Multifunctional DOF Regulation,28.22,Inflorescence Development,3.33
+kmer_7,KMeans,<0.001,2,476,1.506,Chromatin & Development,59.43,Multifunctional DOF Regulation,31.76,Inflorescence Development,2.52
+kmer_7,KMeans,<0.001,3,9313,1.417,Multifunctional DOF Regulation,61.91,Chromatin & Development,29.81,Vascular Development,4.5
+kmer_7,KMeans,<0.001,4,9114,1.61,Multifunctional DOF Regulation,45.63,Chromatin & Development,44.66,Vascular Development,3.79
+kmer_7,Hierarchical,<0.001,0,12868,1.572,Chromatin & Development,46.59,Multifunctional DOF Regulation,44.38,Vascular Development,3.49
+kmer_7,Hierarchical,<0.001,1,11091,1.724,Multifunctional DOF Regulation,53.67,Chromatin & Development,33.27,Vascular Development,4.74
+kmer_7,Hierarchical,<0.001,2,6744,1.413,Multifunctional DOF Regulation,61.0,Chromatin & Development,30.89,Vascular Development,4.51
+kmer_7,Hierarchical,<0.001,3,149,1.167,Chromatin & Development,63.16,Multifunctional DOF Regulation,31.58,Vascular Development,5.26
+kmer_7,Hierarchical,<0.001,4,443,1.361,Chromatin & Development,63.18,Multifunctional DOF Regulation,30.07,Inflorescence Development,2.7

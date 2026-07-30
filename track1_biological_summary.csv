@@ -1,0 +1,21 @@
+Representation,Method,Chi-square p,Cluster,Cluster Size (ACRs),Shannon Diversity Index,Top Function 1,Top 1 (%),Top Function 2,Top 2 (%),Top Function 3,Top 3 (%)
+Binary,KMeans,<0.001,0,5747,1.116,Multifunctional DOF Regulation,79.23,Chromatin & Development,14.2,Inflorescence Development,2.1
+Binary,KMeans,<0.001,1,3388,1.352,Chromatin & Development,58.88,Multifunctional DOF Regulation,35.24,Vascular Development,2.79
+Binary,KMeans,<0.001,2,4735,1.183,Multifunctional DOF Regulation,76.76,Chromatin & Development,11.64,Vascular Development,8.5
+Binary,KMeans,<0.001,3,14717,2.283,Chromatin & Development,58.31,Inflorescence Development,9.99,Cell Cycle & DNA Replication,7.03
+Binary,KMeans,<0.001,4,2708,1.354,Chromatin & Development,59.91,Multifunctional DOF Regulation,34.14,Vascular Development,2.4
+Binary,Hierarchical,<0.001,0,6641,1.727,Chromatin & Development,47.63,Multifunctional DOF Regulation,38.87,Inflorescence Development,4.4
+Binary,Hierarchical,<0.001,1,4525,1.203,Chromatin & Development,57.17,Multifunctional DOF Regulation,39.46,Vascular Development,2.52
+Binary,Hierarchical,<0.001,2,3460,0.863,Multifunctional DOF Regulation,82.46,Chromatin & Development,9.0,Vascular Development,8.37
+Binary,Hierarchical,<0.001,3,12610,2.994,Cell Cycle & DNA Replication,30.27,Multifunctional DOF Regulation,18.48,Chromatin & Development,12.99
+Binary,Hierarchical,<0.001,4,4059,0.033,Multifunctional DOF Regulation,99.73,Floral & Reproductive Development,0.12,"Stress, Hormone & Defense",0.06
+Count,KMeans,<0.001,0,6025,1.398,Multifunctional DOF Regulation,67.92,Chromatin & Development,21.06,Vascular Development,7.18
+Count,KMeans,<0.001,1,2816,1.208,Chromatin & Development,70.19,Multifunctional DOF Regulation,24.68,Vascular Development,1.65
+Count,KMeans,<0.001,2,4738,0.504,Multifunctional DOF Regulation,91.6,Chromatin & Development,7.07,Inflorescence Development,0.39
+Count,KMeans,<0.001,3,13171,3.339,Cell Cycle & DNA Replication,16.82,Multifunctional DOF Regulation,16.23,Inflorescence Development,13.68
+Count,KMeans,<0.001,4,4545,1.237,Chromatin & Development,69.59,Multifunctional DOF Regulation,24.53,Inflorescence Development,2.47
+Count,Hierarchical,<0.001,0,4352,1.004,Chromatin & Development,79.11,Multifunctional DOF Regulation,16.51,Inflorescence Development,2.15
+Count,Hierarchical,<0.001,1,9344,1.499,Multifunctional DOF Regulation,61.07,Chromatin & Development,28.51,Vascular Development,6.07
+Count,Hierarchical,<0.001,2,12932,2.891,Cell Cycle & DNA Replication,26.46,Inflorescence Development,25.52,Telomere Regulation,11.58
+Count,Hierarchical,<0.001,3,4050,0.003,Multifunctional DOF Regulation,99.98,Abiotic Stress & ABA,0.02,Inflorescence Development,0.0
+Count,Hierarchical,<0.001,4,617,0.0,Chromatin & Development,100.0,Inflorescence Development,0.0,Circadian & Flowering,0.0
