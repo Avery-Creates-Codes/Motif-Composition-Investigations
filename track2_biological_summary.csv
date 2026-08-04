@@ -1,0 +1,11 @@
+Method,Chi-square p,Cluster,Cluster Size (ACRs),Shannon Diversity Index,Top Function 1,Top 1 (%),Top Function 2,Top 2 (%),Top Function 3,Top 3 (%)
+KMeans,<0.001,0,13754,3.192,Multifunctional DOF Regulation,26.0,Inflorescence Development,15.02,Chromatin & Development,14.89
+KMeans,<0.001,1,4539,1.202,Chromatin & Development,67.55,Multifunctional DOF Regulation,27.85,Vascular Development,1.78
+KMeans,<0.001,2,5067,0.702,Multifunctional DOF Regulation,86.36,Chromatin & Development,11.63,Inflorescence Development,0.74
+KMeans,<0.001,3,4747,1.259,Multifunctional DOF Regulation,72.3,Chromatin & Development,15.83,Vascular Development,9.47
+KMeans,<0.001,4,3188,1.261,Chromatin & Development,64.45,Multifunctional DOF Regulation,30.53,Vascular Development,1.73
+Hierarchical,<0.001,0,6210,1.63,Multifunctional DOF Regulation,58.76,Chromatin & Development,23.95,Vascular Development,9.71
+Hierarchical,<0.001,1,4140,0.972,Chromatin & Development,60.59,Multifunctional DOF Regulation,39.37,Inflorescence Development,0.03
+Hierarchical,<0.001,2,4049,0.0,Multifunctional DOF Regulation,100.0,Chromatin & Development,0.0,Inflorescence Development,0.0
+Hierarchical,<0.001,3,13214,2.769,Multifunctional DOF Regulation,36.15,Chromatin & Development,25.66,Telomere Regulation,9.75
+Hierarchical,<0.001,4,3682,0.963,Chromatin & Development,61.94,Multifunctional DOF Regulation,38.02,Circadian & Flowering,0.03
