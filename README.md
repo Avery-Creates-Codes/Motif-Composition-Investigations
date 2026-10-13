@@ -3,6 +3,9 @@
 cleaningFIMO.py: 
 This script is used to remove FIMO's redundant putative hits. This script takes a Tomtom.tsv (generated from running MEME file against itself) and a FIMO.gff file as input and uses Tomtom similarities based on a user-specified threshold to group similar motifs. Motifs from the same group on the same strand that overlap are collapsed into the first motif that appears in the overalpping coordinates.
 
+fimoGFF_Exploration.ipynb:
+This notebook is used to explore the cleaned FIMO file in regards to the distribution of FIMO hits amongst the ACRs as well as to determine the number of ACRs with zero motif hits.
+
 Track1.ipynb: 
 Track 1 is used as a baseline for clustering accessible chromatin regions (ACRs) based on motif count and binary matrices.
 
