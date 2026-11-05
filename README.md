@@ -21,6 +21,3 @@ Track 4 clusters ACRs based on a TF-IDF representation of k-merized sequences us
 
 Cluster Evaluation CSVs:
 The cluster evaluation CSVs summarize the clustering evaluation results, including the clustering method, number of clusters, largest cluster size, smallest cluster size, Silhouette score, Calinski-Harabasz Index, Davies-Bouldin Index, and Adjusted Rand Index (ARI) stability.
-
-Biological CSVs:
-The biological CSVs summarize the functional composition of clustering results. The CSVs include the clustering method, the Chi-square p-value for testing independence between functional annotation and the cluster assignment, the cluster size, Shannon Diversity Index, and the top three functional categories within each cluster along with their respective percentages.
